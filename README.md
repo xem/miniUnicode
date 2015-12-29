@@ -19,13 +19,13 @@ Slideshow with all Unicode characters:
 Slideshow with all Unicode characters and their code points :
 ---
 
-- [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (255 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
-- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (212 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
+- [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (253 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
+- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (210 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
 
 
 Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points :
 ---
 
-- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (623 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es5-pack.html) (575b)
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (579 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es6-pack.html) (531b)
+- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (621 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es5-pack.html) (573b)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (577 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es6-pack.html) (529b)
 - Bonus: [How to golf the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html)
