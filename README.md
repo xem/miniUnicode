@@ -32,5 +32,5 @@ In less than 512b
 *Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points in uppercase*
 
 - [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (553 bytes)
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (509 bytes)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (507 bytes)
 - Bonus: [How we golfed the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html) (see the source code)

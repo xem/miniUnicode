@@ -1,7 +1,5 @@
 <!doctype html>
 <meta charset="utf-8">
-<!--b style=position:fixed;bottom:0><b id=b></b><br><button onclick=innerHTML=["Pause","Play"][z=1-z]>Play</button> <button onclick=y=1;i-- >Prev</button> <button onclick=y=1;i++>Next</button></b>
-<center id=a style="font:55vh/95vh a"-->
 <script>
 
 // Unicode 8: Assigned blocks: http://www.unicode.org/Public/UNIDATA/Blocks.txt
@@ -41,7 +39,6 @@ w.push(total.toString(16));
 
 w="860,41,13e0,41,1320,11,a810,2101,900,81,160,21,b0,51,70,91,180,81,b0,31,60,41,120,21,f0,51,50,31,80,161,20,181,250,31,100,101,60,a1,e0,21,50,31,40,161,60,1c1,40,501,550,ab1,430,fd1,280,2181,270,61,c0,371,a0,4061,100,b01,b0,1351,250,b1,80,81,6b0,d51,e0,521,100,101,a00,601,a6e0,21,27b0,2951,220,b05e1,80,81,f0".split(",").map(a=>("0x"+a)<<0) // ~302b regpacked
 
-console.log(w);
 
 
 o = q = r = 0; p = 1;
@@ -54,7 +51,6 @@ for(i=0;i<0xFFF;i++){
   o++;
   q++;
   if(o > 0x850 && o < 0x8FF && p){
-    console.log(o.toString(16));
   }
 }
 
@@ -62,20 +58,5 @@ for(i=0;i<0xFFF;i++){
 // All the entries of w end with 0 / 1 / 0 / 1 / etc. so we can remove them
 w="86,4,13e,4,132,1,a8,210,90,8,16,2,b,5,7,9,18,8,b,3,6,4,12,2,f,5,5,3,8,16,2,18,25,3,10,10,6,a,e,2,5,3,4,16,6,1c,4,50,55,ab,43,fd,28,218,27,6,c,37,a,406,10,b0,b,135,25,b,8,8,6b,d5,e,52,10,10,a0,60,a6e,2,27b,295,22,b05e,8,8,f".split(",").map(a=>("0x"+a+"0")<<0) // 226b non-regpacked
 
-console.log(w);
 
-
-// Let's show all the chars
-/*y = 0;
-z = 0;
-i = -1;
-setInterval(function(){
-  if(!z&&!y) return;
-  if(!y) i++;
-  if(i > 0xE01EF) i = 0;
-  if(i < 0xFFFF){b.innerHTML = "U+" + ("00000" + i.toString(16)).slice(-4); a.innerHTML = String.fromCharCode(i); }
-  else {b.innerHTML = "U+" + ("00000" + i.toString(16)).slice(-6); a.innerHTML = String.fromCharCode((((i-0x10000)>> 10) + 0xD800), (((i-0x10000)% 0x400) + 0xDC00)); }
-  y=0;
-},99)
-*/
 </script>
