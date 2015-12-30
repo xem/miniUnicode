@@ -23,14 +23,14 @@ In less than 256b
 
 *Slideshow with all Unicode characters and their code points*
 
-- [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (253 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
-- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (210 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
+- [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (247 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
+- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (204 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
 
 In less than 512b
 ---
 
-*Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points in uppercase*
+*Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points*
 
-- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (553 bytes)
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (507 bytes)
+- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (539 bytes)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (495 bytes)
 - Bonus: [How we golfed the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html) (see the source code)
