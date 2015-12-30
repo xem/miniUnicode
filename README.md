@@ -23,9 +23,9 @@ Slideshow with all Unicode characters and their code points :
 - [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (210 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
 
 
-Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points :
+Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points in uppercase:
 ---
 
-- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (621 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es5-pack.html) (573b)
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (577 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es6-pack.html) (528b)
-- Bonus: [How to golf the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html)
+- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (553 bytes)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (509 bytes)
+- Bonus: [How we golfed the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html) (see the source code)
