@@ -13,7 +13,9 @@ In less than 128b
 ---
 
 *Slideshow with all Unicode characters.*
+<br>
 *Characters: 1114111*
+<br>
 *Duration: ~25h15*
 
 - [ES5 version](http://xem.github.io/miniUnicode/1-es5.html) (160 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680290363077189632) >> [codepen](http://codepen.io/xem/pen/JGRyYq)
@@ -24,7 +26,9 @@ In less than 256b
 ---
 
 *Slideshow with all Unicode characters and their code points.*
+<br>
 *Characters: 1114111*
+<br>
 *Duration: ~25h15*
 
 - [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (247 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
@@ -34,7 +38,9 @@ In less than 512b
 ---
 
 *Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points*
+<br>
 *Characters: 119792*
+<br>
 *Duration: ~3h20*
 
 - [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (539 bytes)
