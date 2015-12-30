@@ -27,5 +27,5 @@ Slideshow with just the Unicode [8.0 assigned characters](http://www.unicode.org
 ---
 
 - [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (621 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es5-pack.html) (573b)
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (577 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es6-pack.html) (529b)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (577 bytes) >> [packed](http://xem.github.io/miniUnicode/3-es6-pack.html) (528b)
 - Bonus: [How to golf the Unicode blocks ranges](http://xem.github.io/miniUnicode/3-ranges.html)
