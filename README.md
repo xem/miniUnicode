@@ -51,7 +51,7 @@ Big (~ 512b)
 
 *Colored slideshow with just the [Unicode 8.0 assigned characters](http://www.unicode.org/Public/UNIDATA/Blocks.txt) and their code points.*
 <br>
-*[How we golfed the Unicode 8.0 blocks ranges in just 210b](view-source:http://xem.github.io/miniUnicode/3-ranges.html)
+*[How we golfed the Unicode 8.0 blocks ranges in just 210b](http://xem.github.io/miniUnicode/3-ranges.html) *
 <br>
 *Characters: 119792*
 <br>
