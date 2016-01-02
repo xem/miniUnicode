@@ -82,7 +82,7 @@ Huge (< 4kb)
 Epic (< 512kb)
 ---
 
-*Colored slideshow with Unicode 8.0, code points, blocks names and all canonical names (experimental)*
+*Colored slideshow with Unicode 8.0, code points, blocks names and all canonical names (WIP, experimental)*
 
 - [ES6 version](http://xem.github.io/miniUnicode/5-es6.html) (3,31mb, 347kb gzipped)
 
