@@ -7,6 +7,15 @@ Inspired by [this video](https://vimeo.com/36132600) and [this video](https://vi
 
 <br>
 
+JS1k edition
+---
+
+- [Featuring a menu + all assigned blocks](http://xem.github.io/miniUnicode/js1k.min.pack.html) (1024b, ES5)
+
+
+
+<br>
+
 Nano (< 64b)
 ---
 
