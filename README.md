@@ -37,7 +37,6 @@ Micro (< 128b)
 *Duration: ~25h15*
 
 - [ES6 version](http://xem.github.io/miniUnicode/1-es6.html) (110 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680093592598245376)
-- [ES5 version](http://xem.github.io/miniUnicode/1-es5.html) (164 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680290363077189632)
 
 ````html
 <center style=font:45vh/2'arial' id=a><svg onload=i=0;setInterval('a.innerHTML=String.fromCodePoint(i++)',99)>
@@ -48,11 +47,10 @@ Mini (< 256b)
 
 *Slideshow with all Unicode characters and their code points.*
 
-- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (208 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
-- [ES5 version](http://xem.github.io/miniUnicode/2-es5.html) (251 bytes) >> [codepen](http://codepen.io/xem/pen/dGONMe)
+- [ES6 version](http://xem.github.io/miniUnicode/2-es6.html) (201 bytes) >> [codepen](http://codepen.io/xem/pen/WroRxN)
 
 ````html
-<center id=u><script>i=0;setInterval('u.innerHTML="<div style=\'height:90vh;font:50vh/90vh arial\'>"+String.fromCodePoint(i)+"</div><b>U+"+(1E9+i.toString(16).toUpperCase()).slice((65536>i++)-5)',99)</script>
+<center id=u><script>i=0;setInterval(`u.innerHTML="<div style=height:90vh;font:45vh/1.8'arial'>"+String.fromCodePoint(i)+"</div>U+"+(1E9+i.toString(16).toUpperCase()).slice((65536>i++)-5)`,99)</script>
 ````
 
 Big (~ 512b)
