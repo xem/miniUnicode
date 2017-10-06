@@ -64,11 +64,10 @@ Big (~ 512b)
 <br>
 *Duration: ~3h20*
 
-- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (560 bytes)
-- [ES5 version](http://xem.github.io/miniUnicode/3-es5.html) (621 bytes)
+- [ES6 version](http://xem.github.io/miniUnicode/3-es6.html) (549 bytes)
 
 ````html
-<body id=u><script>i=q=r=0;k='style="font:4';setInterval('u.'+k+'vh arial;color:#fff;background:hsl("+(i/9+200)+",80%,50%)";w="86JG3eJG32GP8H10O0NG6HQKMOG8NQILJG2HUKKING6HG8H5IG0G0LPTHKIJG6LGcJK0K5PbJ3UdH8H18H7LRI7PJ06G0Q0QG35H5QNNLbS5TK2G0G0P0L0P6eHH7bH95H2Q05eNNU".replace(/[G-U]/g,a=>-9+(a.charCodeAt()-70).toString(16)).split(-9);u.innerHTML=\'<center><div '+k+'5vh/85vh arial;height:85vh">\'+String.fromCodePoint(i)+"</div><b>U+"+(1E9+i.toString(16).toUpperCase()).slice((65536>i++)-5);++q=="0x"+w[r]+0|0&&(r++,i+="0x"+w[r++]+0|0,r++,q=0)',99)</script>
+<body id=u text=#fff><script>i=q=r=0;k='style="font:4';setInterval(`u.${k}vh arial;background:hsl(${i/9+200},80%,50%)";w="86JG3eJG32GP8H10O0NG6HQKMOG8NQILJG2HUKKING6HG8H5IG0G0LPTHKIJG6LGcJK0K5PbJ3UdH8H18H7LRI7PJ06G0Q0QG35H5QNNLbS5TK2G0G0P0L0P6eHH7bH95H2Q05eNNU".replace(/[G-U]/g,a=>-9+(a.charCodeAt()-70).toString(16)).split(-9);u.innerHTML='<center><div ${k}5vh/85vh arial;height:85vh">'+String.fromCodePoint(i)+"</div><b>U+"+(1E9+i.toString(16).toUpperCase()).slice((65536>i++)-5);++q=="0x"+w[r]+0|0&&(r++,i+="0x"+w[r++]+0|0,r++,q=0)`,99)</script>
 ````
 
 
