@@ -36,11 +36,11 @@ Micro (< 128b)
 <br>
 *Duration: ~25h15*
 
-- [ES6 version](http://xem.github.io/miniUnicode/1-es6.html) (117 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680093592598245376)
+- [ES6 version](http://xem.github.io/miniUnicode/1-es6.html) (110 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680093592598245376)
 - [ES5 version](http://xem.github.io/miniUnicode/1-es5.html) (164 bytes) >> [tweet](https://twitter.com/MaximeEuziere/status/680290363077189632)
 
 ````html
-<center style="font:50vh/90vh arial"id=a><script>i=0;setInterval('a.innerHTML=String.fromCodePoint(i++)',99)</script>
+<center style=font:45vh/2'arial' id=a><svg onload=i=0;setInterval('a.innerHTML=String.fromCodePoint(i++)',99)>
 ````
 
 Mini (< 256b)
