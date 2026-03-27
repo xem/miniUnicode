@@ -3,14 +3,17 @@ miniUnicode
 
 code-golfed Unicode slideshows
 
+(Unicode 17.0 update for "epic")
+---
+
 Inspired by [this video](https://vimeo.com/36132600) and [this video](https://vimeo.com/48858289)
 
 <br>
 
-JS1k edition
+JS1k 2016 edition
 ---
 
-- [Featuring a menu + all assigned blocks](http://xem.github.io/miniUnicode/js1k.min.pack.html) (1024b, ES5)
+- [Featuring a menu + all Unicode 8.0 assigned blocks](http://xem.github.io/miniUnicode/js1k.min.pack.html) (1024b, ES5)
 
 
 
@@ -87,9 +90,9 @@ Huge (< 4kb)
 Epic (< 512kb)
 ---
 
-*Colored slideshow with Unicode 8.0, code points, blocks names and all canonical names*
+*Colored slideshow with Unicode 17.0, code points, blocks names and all canonical names*
 <br>
-*Duration: ~16h40*
+*Duration: ~12h*
 
 - [DEMO](http://xem.github.io/miniUnicode/5-es6.html) (3,31mb, 347kb gzipped)
 
