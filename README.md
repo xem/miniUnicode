@@ -92,7 +92,7 @@ Epic (< 512kb)
 
 *Colored slideshow with Unicode 17.0, code points, blocks names and all canonical names*
 <br>
-*Duration: ~12h*
+*Duration: ~4h*
 
 - [DEMO](http://xem.github.io/miniUnicode/5-es6.html) (3,31mb, 347kb gzipped)
 
